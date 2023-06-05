@@ -7,7 +7,7 @@ if [ expression ]
 then
     these statements run above expression is true
 else
-    these statements run above expression is true
+    these statements run above expression is false
 fi
 ```
 
